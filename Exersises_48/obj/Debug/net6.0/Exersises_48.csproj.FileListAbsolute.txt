@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\bin\Debug\net6.0\Exersises_48.exe
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\bin\Debug\net6.0\Exersises_48.deps.json
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\bin\Debug\net6.0\Exersises_48.runtimeconfig.json
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\bin\Debug\net6.0\Exersises_48.dll
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\bin\Debug\net6.0\Exersises_48.pdb
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\Exersises_48.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\Exersises_48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\Exersises_48.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\Exersises_48.AssemblyInfo.cs
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\Exersises_48.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\Exersises_48.dll
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\refint\Exersises_48.dll
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\Exersises_48.pdb
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\Exersises_48.genruntimeconfig.cache
+C:\Users\Aleksandr\Desktop\Seminar7\Exersises_48\obj\Debug\net6.0\ref\Exersises_48.dll
